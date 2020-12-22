@@ -18,8 +18,8 @@
 
 ## Further
  **Gray Transformation**: 
- - It performs transformations to turn a colored image, which has 3 values per pixel in the RGB color model into a matrix of single values that combine the 3 RGB values              
-- NumPy used:   
+ - It performs transformations to turn a colored image, which has 3 values per pixel in the RGB color model into a matrix of single values that combine the 3 RGB values               
+NumPy used:        
 - vstack()
 - flatten()
 - dot()
